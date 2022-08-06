@@ -6,8 +6,7 @@
 
 ### Slack channel
 
-  - [**ucbischool**](https://ucbischool.slack.com), channel #cyber-215-2022-\[semester\].
-<!-- TODO: Date -->
+  - [**ucbischool**](https://ucbischool.slack.com), channel #cyber-215-2022-fall.
 
 ### Instructors
 
@@ -149,19 +148,17 @@ When it’s your turn to lead the 10-15 minute discussion of the paper, you'll w
 
 # [Schedule](/schedule)
 
-<!-- TODO: Dates -->
-
- - [Week 1: Usability and Security Systems](./schedule/week-01.md) (*May 4*)
- - [Week 2: Studying Decision-Making](./schedule/week-02.md) (*May 11*)
- - [Week 3: Research Methods: Experimental](./schedule/week-03.md) (*May 18*)
- - [Week 4: Research Methods: Descriptive and Relational](./schedule/week-04.md) (*May 25*)
- - [Week 5: Statistics](./schedule/week-05.md) (*June 1*)
- - [Week 6: Usable Security](./schedule/week-06.md) (*June 8*)
- - [Week 7: Privacy](./schedule/week-07.md) (*June 15*)
- - [Week 8: Authentication & Trusted Path](./schedule/week-08.md) (*June 22*)
- - [Week 9: Access Control](./schedule/week-09.md) (*June 29*)
- - [Week 10: Warnings](./schedule/week-10.md) (*July 6*)
- - [Week 11: Mobile Permissions](./schedule/week-11.md) (*July 13*)
- - [Week 12: Secure Communication](./schedule/week-12.md) (*July 20*)
- - [Week 13: Privacy Policies](./schedule/week-13.md) (*July 27*)
- - [Week 14: Final Project Presentations](./schedule/week-14.md) (*August 3*)
+ - [Week 1: Usability and Security Systems](./schedule/week-01.md) (*August 23*)
+ - [Week 2: Studying Decision-Making](./schedule/week-02.md) (*August 30*)
+ - [Week 3: Research Methods: Experimental](./schedule/week-03.md) (*September 6*)
+ - [Week 4: Research Methods: Descriptive and Relational](./schedule/week-04.md) (*September 13*)
+ - [Week 5: Statistics](./schedule/week-05.md) (*September 20*)
+ - [Week 6: Usable Security](./schedule/week-06.md) (*September 27*)
+ - [Week 7: Privacy](./schedule/week-07.md) (*October 4*)
+ - [Week 8: Authentication & Trusted Path](./schedule/week-08.md) (*October 11*)
+ - [Week 9: Access Control](./schedule/week-09.md) (*October 18*)
+ - [Week 10: Warnings](./schedule/week-10.md) (*October 25*)
+ - [Week 11: Mobile Permissions](./schedule/week-11.md) (*November 1*)
+ - [Week 12: Secure Communication](./schedule/week-12.md) (*November 15*)
+ - [Week 13: Privacy Policies](./schedule/week-13.md) (*November 29*)
+ - [Week 14: Final Project Presentations](./schedule/week-14.md) (*December 6*)
