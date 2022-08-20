@@ -104,7 +104,7 @@ At the end of the semester, you will be asked to fill out a confidential survey 
 
 Please check the schedule for the assignments due each week. Up to Week 7, there is one assignment per week. After Week 7, most of the work is devoted to group projects. When homework is assigned, **it will be due 2 hours before the beginning of the live session**.
 
-In addition to assignments that are turned into ISVC, you will also have assigned readings and async content (videos) to review before each class.
+In addition to assignments that are turned into the Digital Campus, you will also have assigned readings and async content (videos) to review before each class.
 
 
 ## Participation

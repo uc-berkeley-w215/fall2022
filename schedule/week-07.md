@@ -20,7 +20,7 @@
 
 ### Assignments due
 
-  - [Identify flaws in a study design](/assignments/study-design-flaws.md). Please submit your work in the slot "*Assignment 7*" in ISVC.
+  - [Identify flaws in a study design](/assignments/study-design-flaws.md). Please submit your work in the slot "*Assignment 7*" in the Digital Campus.
   - Prepare to discuss your progress on your project proposal so you can get more feedback before it’s due at Week 8.  You do not need to submit anything for this assignment.
 
 

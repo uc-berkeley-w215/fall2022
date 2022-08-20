@@ -15,7 +15,7 @@
 
 ### Assignments due
 
-Perform a [heuristic evaluation assigment](../assignments/heuristic-evaluation.md) of a security feature in your web browser or on a website.  Please upload your assignment to the slot "*Assignment 3*" in ISVC.
+Perform a [heuristic evaluation assigment](../assignments/heuristic-evaluation.md) of a security feature in your web browser or on a website.  Please upload your assignment to the slot "*Assignment 3*" in the Digital Campus.
 
 Also: remember to work on your IRB training, due on [Week 4](./week-04.md).
 

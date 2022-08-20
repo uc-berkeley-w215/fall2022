@@ -29,7 +29,7 @@
 
 	1.  > Should private companies use IRBs for their human-subjects research?
 
-Please upload both files (your slides and a PDF of the document where you wrote your answers to the questions above) in slot "*Assignment 2*" in ISVC.
+Please upload both files (your slides and a PDF of the document where you wrote your answers to the questions above) in slot "*Assignment 2*" in the Digital Campus.
 
 Also: remember to work on your IRB training, due on [Week 4](./schedule/week-04.md).
 

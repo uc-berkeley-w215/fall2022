@@ -82,7 +82,7 @@ To motivate your research, please explain the possible impact of your research o
   - Will you be identifying users concerns so that you can better quantify them with a follow-up study so that they can be address down the road?
   - Are there benefits to the study that cannot be expressed as decisions that might be changed or resources that might be allocated differently based on the possible outcomes?
 
-**Assignment 6**: Please submit at least two paragraphs about your project idea before the sync session.  Share the idea as a Google doc, link to it in the course slack channel at least an hour before the sync session, and be prepared to answer questions about what you wrote during the session.  Also submit it to the slot "*Assignment 6*" in ISVC.
+**Assignment 6**: Please submit at least two paragraphs about your project idea before the sync session.  Share the idea as a Google doc, link to it in the course slack channel at least an hour before the sync session, and be prepared to answer questions about what you wrote during the session.  Also submit it to the slot "*Assignment 6*" in the Digital Campus.
 
 You are not required to have a group at this phase of the project.  If you happen to have a group, please choose one member to submit the proposal on behalf of the group.
 
@@ -92,7 +92,7 @@ Revise your project idea by integrating any feedback you've received.
 
 ### Week 8, before the live session
 
-Submit a **one-page project proposal** to the slot "*Group Project Proposal*" in ISVC.  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.  You should try to fill in as much as you can of the _Motivation_, _Research Question_, _Related Work_, and _Methodology_ sections of the [final paper](#final-paper-sections).  Please choose one member to submit the proposal on behalf of the group.
+Submit a **one-page project proposal** to the slot "*Group Project Proposal*" in the Digital Campus.  You can start with the [project proposal structure](/project/proposals/proposal-structure-with-examples.md) and fill in related work, add additional questions, and provide more details about your study.  You should try to fill in as much as you can of the _Motivation_, _Research Question_, _Related Work_, and _Methodology_ sections of the [final paper](#final-paper-sections).  Please choose one member to submit the proposal on behalf of the group.
 
 ### Week 9, before the live session
 
@@ -142,7 +142,7 @@ Each group will share their project with the class. Please cover at least the fo
 
 ### Three days after Week 14 live session
 
-Submit the final draft of your paper to the slot "*Final Project*" in ISVC and also email it to the instructors.  The subject line of the email should start with "W215 Project Final Draft".  Please choose one member to submit the proposal on behalf of the group.
+Submit the final draft of your paper to the slot "*Final Project*" in the Digital Campus and also email it to the instructors.  The subject line of the email should start with "W215 Project Final Draft".  Please choose one member to submit the proposal on behalf of the group.
 
 The final draft should include any changes made following feedback from the live session.  Include a copy of your study materials (survey text, interview script, etc.) in an appendix of the paper or as an email attachment.
 

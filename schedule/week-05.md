@@ -25,7 +25,7 @@
 
 ### Assignments due
 
-[Perform a sample-size determination](/assignments/sample-size.md) and submit it as "*Assignment 5*" in ISVC.
+[Perform a sample-size determination](/assignments/sample-size.md) and submit it as "*Assignment 5*" in the Digital Campus.
 
 
 ### Synchronous discussion agenda
