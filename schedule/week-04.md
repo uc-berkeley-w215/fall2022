@@ -25,7 +25,7 @@ Readings to be presented will be shown here. Please send a message to the instru
 
 ### Assignments due
 
-Complete the IRB training by following the instructions here: [https://cphs.berkeley.edu/training.html](https://cphs.berkeley.edu/training.html). Make sure that you complete the training "*Group 2: Social and Behavioral Research Investigators*". Please upload the training certificate in the slot "*Assignment 4*" in the Digital Campus.
+Complete the IRB training by following the instructions here: [https://cphs.berkeley.edu/training.html](https://cphs.berkeley.edu/training.html). Make sure that you only complete the training "*Group 2: Social and Behavioral Research Investigators*" which has 17 parts.  Please upload the training certificate in the slot "*Assignment 4*" in the Digital Campus.
 
 Complete breakout group mini-project proposal from Week 3. You and your group should prepare a small set of slides to present the results of your discussion. You don't need to submit your slides.
 
