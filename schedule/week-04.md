@@ -8,12 +8,10 @@
 
 ### Readings to be presented (students not presenting should read at least 1 and skim 1 of the papers for this week)
 
-Readings to be presented will be shown here. Please send a message to the instructors to let them know which reading you will present in this week or future weeks.
+  - [Using Fingerprint Authentication to Reduce System Security: An Empirical Study](https://drive.google.com/file/d/1iXa3nLVlDFnsRxzT5d1d3Dpnr1mNX2i7/view?usp=sharing), by Wimberly and Liebrock (2011).  **Discussion lead: Caleb Albornoz**
 
 
 ### Readings you may choose to present
-
-  - [Using Fingerprint Authentication to Reduce System Security: An Empirical Study](https://drive.google.com/file/d/1iXa3nLVlDFnsRxzT5d1d3Dpnr1mNX2i7/view?usp=sharing), by Wimberly and Liebrock (2011).
 
   - [Operating System Framed in Case of Mistaken Identity](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/osframed.pdf), by Bravo-Lillo et al (2012).
 
