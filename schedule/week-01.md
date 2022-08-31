@@ -17,7 +17,7 @@
 
 Submit as **assignment 1** a list of three user interfaces or user experiences *related to security or privacy* that you find most infuriating or would most want to fix. For each, explain what you find problematic and why. You may include not only stuff that happened personally to you, but to your family or friends, or even things that you observed at your work among your colleagues. Please upload your document in PDF format in the slot "*Assignment 1*" in the Digital Campus, and be prepared to talk about your answers in class during introductions. 
 
-For this course, you will have to complete the IRB training that is mandatory for everyone doing human subjects research. **During [Week 4](./schedule/week-04.md)**, we will ask you to upload a certificate that proves that you completed your IRB training. Completing the training may take you about two weeks, so please start early. Follow [these instructions](https://cphs.berkeley.edu/training.html) to complete the training.  Only complete the "*Group 2: Social and Behavioral Research Investigators*" module, which has 17 parts.
+For this course, you will have to complete the IRB training that is mandatory for everyone doing human subjects research. **During [Week 4](./week-04.md)**, we will ask you to upload a certificate that proves that you completed your IRB training. Completing the training may take you about two weeks, so please start early. Follow [these instructions](https://cphs.berkeley.edu/training.html) to complete the training.  Only complete the "*Group 2: Social and Behavioral Research Investigators*" module, which has 17 parts.
 
 
 ### Synchronous discussion agenda
