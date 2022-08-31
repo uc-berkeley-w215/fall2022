@@ -2,6 +2,8 @@
 
 ### Readings to be presented (students not presenting should read at least 1 or skim 3 of the papers for this week) 
 
+- He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes, E., & Ur, B. (2018). [Rethinking access control and authentication for the home internet of things (IoT)](https://www.blaseur.com/papers/usenixsec18.pdf). Proceedings of the 27th USENIX Security Symposium (USENIX Security 18).  **Discussion lead: Jeff Lee**
+
 
 ### Readings you may choose to present
 
@@ -12,8 +14,6 @@
 - Mazurek, M. L., Arsenault, J. P., Bresee, J., Gupta, N., Ion, I., Johns, C., . . . Reiter, M. K. (2010). [Access control for home data sharing: Attitudes, needs and practices.](https://users.ece.cmu.edu/~lbauer/papers/2010/chi2010-home-access-control.pdf) Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, ACM. 
 
 - Jaferian, P., Rashtian, H., & Beznosov, K. (2014). [To authorize or not authorize: Helping users review access policies in organizations.](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-jaferian.pdf) Proceedings of the 10th Symposium on Usable Privacy and Security, SOUPS.
-
-- He, W., Golla, M., Padhi, R., Ofek, J., Durmuth, M., Fernandes, E., & Ur, B. (2018). [Rethinking access control and authentication for the home internet of things (IoT)](https://www.blaseur.com/papers/usenixsec18.pdf). Proceedings of the 27th USENIX Security Symposium (USENIX Security 18).
 
 
 ### Optional readings (if you're really interested in this topic)
