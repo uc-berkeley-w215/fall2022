@@ -14,7 +14,7 @@
 
 ### Office hours
 
-  - Saranga: Mondays @ 5:00 p.m. Pacific or by appointment
+  - Saranga: Mondays @ 4:00 p.m. Pacific or by appointment
 
 ### Course Lead
 
