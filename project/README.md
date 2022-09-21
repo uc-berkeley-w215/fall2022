@@ -84,7 +84,7 @@ To motivate your research, please explain the possible impact of your research o
 
 **Assignment 6**: Please submit at least two paragraphs about your project idea before the sync session.  Share the idea as a Google doc, link to it in the course slack channel at least an hour before the sync session, and be prepared to answer questions about what you wrote during the session.  Also submit it to the slot "*Assignment 6*" in the Digital Campus.
 
-You are not required to have a group at this phase of the project.  If you happen to have a group, please choose one member to submit the proposal on behalf of the group.
+You are not required to have a group at this phase of the project.  If you happen to have a group, each member should still develop and submit an individual proposal that varies from the group's proposal.
 
 ### Week 7, before the live session
 
