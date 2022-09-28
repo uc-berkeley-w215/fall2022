@@ -7,10 +7,11 @@
 
   - [Privacy Attitudes and Privacy Behavior: Losses, Gains, and Hyperbolic Discounting](http://www.heinz.cmu.edu/~acquisti/papers/acquisti_grossklags_eis_refs.pdf), by Acquisti and Grossklags (2004).  **Discussion lead: Naphi Tang** 
 
+  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti (2011).  **Discussion lead: Hieu Le**
+
 ### Readings you may choose to present
 
   - [A Taxonomy of Privacy](https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=1376&context=penn_law_review), by Solove (2006). (Please read up to page 491; that is, right before the section “Information collection”).
-  - [The Effect of Online Privacy Information on Purchasing Behavior: An Experimental Study](http://www.guanotronic.com/~serge/papers/isr10.pdf) by Tsai, Egelman, Cranor, and Acquisti (2011).
 
 
 ### Async responses/reflections due
