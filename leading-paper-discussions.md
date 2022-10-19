@@ -4,7 +4,7 @@ Please try to limit your presentation to five minutes and save the remaining tim
 
 You do not need to submit the presentation.  You will be evaluated on your in-class presentation.
 
-We will give **extra credit** if, at least three days before the class in which you lead a discussion, you submit a zoom recording of your practice talk via email or Slack.  We will not grade the practice talk based on quality, but will _only_ verify that it is a genuine attempt to practice for the purpose of ensuring your presentation does not go over five minutes.  You may _optionally_ ask us to provide feedback if it is submitted early enough for us to provide it.
+We will give **extra credit** if, at least four days before the class in which you lead a discussion, you submit a zoom recording of your practice talk via email or Slack.  We will not grade the practice talk based on quality, but will verify that it is a genuine attempt to practice for the purpose of ensuring your presentation does not go over five minutes.  If we provide feedback on your presentation, please do your best to incorporate it by the time you present to the class.
 
 #### For all papers, you should cover:
 
