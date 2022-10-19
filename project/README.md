@@ -104,7 +104,7 @@ Revise your proposal to include the following:
 	- any material required during the research activities (surveys, recruiting ads, etc.)
 2. Designs, mockups, and prototypes at the appropriate level of fidelity.
 
-Share this revised proposal in the Slack channel.
+You are encouraged to share your study materials in the Slack channel to get feedback.
 
 Some aspects of your protocol you might want to consider:
 - Where will you advertise your survey/interview protocol? What text will you use to advertise it? This text is important because it should be brief, neutral, but should spark at some interest in your study.
@@ -117,9 +117,13 @@ Some aspects of your protocol you might want to consider:
   - Consider possible physical, psychological, social, legal, and economic harms, including possible negative effects on financial standing, employability, insurability, educational advancement or reputation.
 
 
-### Week 11, before the live session
+### Week 10, before the live session
 
 At this point you should have run an initial pilot with at least a few convenience participants (friends or coworkers) if not a larger pilot and will want to share how this went.
+
+### Week 12, before the live session
+
+At this point you should have run the final iteration of your study with a larger sample of participants.  The next two weeks should focus on data analysis, the writeup, and presentation.
 
 ### Week 14, before the live session
 
