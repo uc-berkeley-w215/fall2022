@@ -20,7 +20,7 @@
 
 - Anderson, R. (2008) *Security engineering: A guide to building dependable distributed systems*. Chapter 4. https://www.cl.cam.ac.uk/~rja14/Papers/SEv2-c04.pdf
 
-- Maxion, R. A., & Reeder, R. W. (2005). Improving user-interface dependability through mitigation of human error. *International Journal of Human–Computer Studies, 63*(1–2), 25–50. http://www.robreeder.com/pubs/salmonIJHCS2005.pdf
+- Maxion, R. A., & Reeder, R. W. (2005). [Improving user-interface dependability through mitigation of human error.](https://drive.google.com/file/d/1GVGKBj8CvZHrttbKvFjBjES5XYm2Y6ge/view?usp=share_link) *International Journal of Human–Computer Studies, 63*(1–2), 25–50.
 
 ### Async responses/reflections due
 
