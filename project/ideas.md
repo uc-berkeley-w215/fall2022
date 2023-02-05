@@ -8,7 +8,7 @@ Q: What factors do users cite to justify their preferred device-unlock mechanism
 
 Q: What problems will users have performing common tasks for which \[security technology: e.g. DiceKeys\]\] is used? (Lab study with researcher-specified tasks, similar to Whitten & Tygar)
 
-Q: How accurately can users answer questions about the permissions they have given collaborators in \[permission system: e.g., Google Docs, DropBox, OneDrive\]? (Lab study similar to Whitten & Tygar, and later Reeder’s [<span class="underline">thesis</span>](https://www.robreeder.com/pubs/ReederThesis.pdf))
+Q: How accurately can users answer questions about the permissions they have given collaborators in \[permission system: e.g., Google Docs, DropBox, OneDrive\]? (Lab study similar to Whitten & Tygar, and later [Reeder](https://users.ece.cmu.edu/~lbauer/papers/2008/chi08-grids.pdf))
 
 Q: How effective is an app-impersonation attack on the trusted path mechanisms of an operating system: e.g. Android, iOS, Windows, MacOs? (lab or field study in which one app installed by the user renders itself to look like another app installed by the user to trick the user into giving it a permission it shouldn’t have or entering private information such as a password. See Bravo-Lillo et al.’s “Operating System Framed” paper.)
 
