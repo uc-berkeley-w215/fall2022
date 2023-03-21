@@ -6,7 +6,7 @@
 
   - W215 [Project Guidelines](/project/)  (guidelines for *your* course project)
 
-  - [When Security Gets in the Way](https://jnd.org/when_security_gets_in_the_way/), by Don Norman.
+  - [When Security Gets in the Way](https://drive.google.com/file/d/1dVlj8cCKjBupucSTeyp6_5nJ58zkGWcU/view?usp=share_link), by Don Norman.
   
 ### Readings to be presented (students not presenting should read at least 1 and skim 1 of the papers for this week) 
 
